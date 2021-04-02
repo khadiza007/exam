@@ -1,0 +1,90 @@
+  
+.container{
+    margin-bottom: 100px;
+}
+
+.pink-bg{
+    background-color: #fceafb;
+}
+
+.carousel-item {
+    padding: 40px;
+}
+
+.pri{
+    color: #ff136f;
+}
+
+
+.buy-button{
+    background-image: linear-gradient(to bottom,#ff4891 10%,#ff2077 90%);
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 7px;
+    margin-top: 25px;
+}
+
+.cat1, .cat2, .cat3{
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.cat1{
+    background-color: orange;
+}
+
+.cat2{
+    background-color: violet;
+}
+
+.cat3{
+    background-color: blue;
+}
+
+.category img{
+    width: 100px;
+
+}
+
+.category h1{
+    color: #fff;
+}
+
+#category{
+    margin-bottom: 20px;
+}
+
+.card{
+    border: none;
+    border-radius: 7px;
+    box-shadow: 5px 5px 15px lightgray;
+}
+
+.card-footer{
+    border-top: none;
+    border-radius: 10px !important;
+    color: #fff;
+
+}
+#subscribe{
+    height: 300px;
+}
+
+.get text{
+    color: gray;
+}
+.email-input{
+
+}
+
+.submit-button{
+    background-image: linear-gradient(to bottom,#ff4891 10%,#ff2077 90%);
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 7px
+}
+footer{
+    text-align: center;
+}
